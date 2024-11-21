@@ -6,11 +6,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Mobile Application Developer with 2+ years of experience specializing in Flutter and cross-platform development. I focus on creating enterprise-grade solutions that make a difference. Currently working at Team Thai, I've successfully delivered multiple applications serving thousands of users.
+I'm a passionate Mobile Application Developer with 1 years of experience specializing in Flutter and cross-platform development. I focus on creating enterprise-grade solutions that make a difference. Currently working at Team Thai, I've successfully delivered multiple applications serving thousands of users.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jamshiya-pm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green.svg?style=for-the-badge&logo=firefox)](https://jamshiya-pm.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/Email-Contact-red.svg?style=for-the-badge&logo=gmail)](mailto:jamshimujeeb7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammedanshad)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green.svg?style=for-the-badge&logo=firefox)](https://mohammedanshad1.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-Contact-red.svg?style=for-the-badge&logo=gmail)](mailto:anshadk556@gmail.com)
 
 ## 🚀 Key Projects
 
