@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Mohammed Anshad K
 
 <div align="center">
-  <img src="https://github.com/Jamshiya-Pm/Portfolio/blob/main/images/JAMSHIYA%20PM%20(1).png" alt="Mobile App Developer" />
+  <img src="https://github.com/mohammedanshad1/portfolio/blob/main/images/ansahd1.png" alt="Mobile App Developer" />
 </div>
 
 ## 👨‍💻 About Me
